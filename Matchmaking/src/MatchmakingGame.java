@@ -74,7 +74,7 @@ public class MatchmakingGame {
                 border;
     }
 
-    // diba maganda pag naka box
+    // diba maganda pag naka box ?
     public static String drawDialogueBox(String message) {
         return "[ " + message + " ]";
     }
